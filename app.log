@@ -1,0 +1,162 @@
+2024/09/22 12:07:40 检测到操作系统:  darwin
+2024/09/22 12:07:40 mpg123已安装
+2024/09/22 12:07:40 音频缓存已清理
+2024/09/22 12:07:40 唯一设备码已存在: 4451143991311726824602
+2024/09/22 12:07:40 正在连接到 wss://cd.api.yingzhu.net/screen.io
+2024/09/22 12:07:41 设备上线通知: {"data":{"app_version":"V1.0.0.0","brand_name":"赢筑","device_ip":"192.168.110.12","device_name":"智能功放","device_type":90014,"mac_address":"4451143991311726824602","online":1},"event":"device"}
+2024/09/22 12:08:11 ping Server 成功
+2024/09/22 12:08:41 ping Server 成功
+2024/09/22 12:09:11 ping Server 成功
+2024/09/22 12:09:41 ping Server 成功
+2024/09/22 12:10:11 ping Server 成功
+2024/09/22 12:10:41 ping Server 成功
+2024/09/22 12:11:11 读取消息错误: read tcp 192.168.110.12:51147->111.231.206.117:443: read: can't assign requested address
+2024/09/22 12:11:11 重连中...
+2024/09/22 12:11:16 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:11:21 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:11:26 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:11:32 设备上线通知: {"data":{"app_version":"V1.0.0.0","brand_name":"赢筑","device_ip":"192.168.110.12","device_name":"智能功放","device_type":90014,"mac_address":"4451143991311726824602","online":1},"event":"device"}
+2024/09/22 12:11:41 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:12:02 ping Server 成功
+2024/09/22 12:12:11 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:12:32 ping Server 成功
+2024/09/22 12:12:41 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:13:02 ping Server 成功
+2024/09/22 12:13:11 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:13:32 ping Server 成功
+2024/09/22 12:13:41 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:14:02 ping Server 成功
+2024/09/22 12:14:11 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:14:32 ping Server 成功
+2024/09/22 12:14:57 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:15:17 ping Server 成功
+2024/09/22 12:15:27 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:15:47 ping Server 成功
+2024/09/22 12:15:57 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:16:17 ping Server 成功
+2024/09/22 12:16:27 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:16:47 ping Server 成功
+2024/09/22 12:16:57 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:17:17 ping Server 成功
+2024/09/22 12:17:27 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:17:47 ping Server 成功
+2024/09/22 12:17:57 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:18:17 ping Server 成功
+2024/09/22 12:18:27 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:18:47 ping Server 成功
+2024/09/22 12:18:57 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:19:17 ping Server 成功
+2024/09/22 12:19:27 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:19:47 ping Server 成功
+2024/09/22 12:19:57 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:20:17 ping Server 成功
+2024/09/22 12:20:27 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:20:47 ping Server 成功
+2024/09/22 12:20:57 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:21:17 ping Server 成功
+2024/09/22 12:21:27 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:21:47 ping Server 成功
+2024/09/22 12:21:57 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:22:17 ping Server 成功
+2024/09/22 12:22:27 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:22:47 ping Server 成功
+2024/09/22 12:22:57 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:23:17 ping Server 成功
+2024/09/22 12:23:27 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:23:47 ping Server 成功
+2024/09/22 12:23:57 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:24:17 ping Server 成功
+2024/09/22 12:24:27 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:25:03 ping Server 成功
+2024/09/22 12:25:13 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:25:33 ping Server 成功
+2024/09/22 12:25:43 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:26:03 ping Server 成功
+2024/09/22 12:26:13 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:26:23 读取消息错误: read tcp 192.168.110.12:52344->111.231.206.117:443: read: operation timed out
+2024/09/22 12:26:23 重连中...
+2024/09/22 12:27:19 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:27:54 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:28:10 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:28:15 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:28:20 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:28:25 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:28:30 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:28:35 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:28:40 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:28:45 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:28:50 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:28:55 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:29:00 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:29:05 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:29:10 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:29:15 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:29:20 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:34:07 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:34:12 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:34:17 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:34:22 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:34:27 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:34:32 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:34:37 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:34:42 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:34:47 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:34:52 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:34:57 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:35:02 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:35:07 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:35:12 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:35:17 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:35:22 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:35:27 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:35:32 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:35:37 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:35:42 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:35:47 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:35:52 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:35:57 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:36:02 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:36:07 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:36:12 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:36:17 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:36:22 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:36:27 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:36:32 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:36:37 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:36:42 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:36:47 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:36:52 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:36:57 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:37:02 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:37:07 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:37:12 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:37:17 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:37:22 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:37:27 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:37:32 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:37:37 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:37:42 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:37:47 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:37:52 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:37:57 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:38:02 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:38:07 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:38:12 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:38:17 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:38:22 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:43:48 连接失败: dial tcp: lookup cd.api.yingzhu.net: no such host
+2024/09/22 12:43:53 设备上线通知: {"data":{"app_version":"V1.0.0.0","brand_name":"赢筑","device_ip":"192.168.110.12","device_name":"智能功放","device_type":90014,"mac_address":"4451143991311726824602","online":1},"event":"device"}
+2024/09/22 12:43:56 写入心跳消息错误: write tcp 192.168.110.12:52344->111.231.206.117:443: write: broken pipe
+2024/09/22 12:44:06 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:44:23 ping Server 成功
+2024/09/22 12:44:27 写入心跳消息错误: write tcp 192.168.110.12:52344->111.231.206.117:443: write: broken pipe
+2024/09/22 12:44:36 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:44:53 ping Server 成功
+2024/09/22 12:44:57 写入心跳消息错误: write tcp 192.168.110.12:52344->111.231.206.117:443: write: broken pipe
+2024/09/22 12:45:06 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:45:23 ping Server 成功
+2024/09/22 12:45:27 写入心跳消息错误: write tcp 192.168.110.12:52344->111.231.206.117:443: write: broken pipe
+2024/09/22 12:45:36 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe
+2024/09/22 12:45:53 ping Server 成功
+2024/09/22 12:45:57 写入心跳消息错误: write tcp 192.168.110.12:52344->111.231.206.117:443: write: broken pipe
+2024/09/22 12:46:06 写入心跳消息错误: write tcp 192.168.110.12:51147->111.231.206.117:443: write: broken pipe

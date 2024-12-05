@@ -1,0 +1,7 @@
+{
+  "websocket": {
+    "scheme": "ws",
+    "host": "127.0.0.1:8000",
+    "path": "/ws"
+  }
+}
